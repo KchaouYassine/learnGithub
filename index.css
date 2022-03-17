@@ -1,4 +1,8 @@
 body{
   padding: 0;
-  color:aqua
+  color:aqua;
+  background-color:black;
   }
+p{
+  margin:10px;
+}
