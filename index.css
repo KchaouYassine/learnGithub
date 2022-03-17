@@ -1,8 +1,11 @@
 body{
   padding: 0;
   color:rgb(165, 97, 7);
-  background-color:black;
+ background-color: wheat;
   }
 p{
   margin:10px;
+}
+button{
+ padding-left: 20px; 
 }
